@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "768926935158",
+    "firebase_url": "https://codegym-zoom.firebaseio.com",
+    "project_id": "codegym-zoom",
+    "storage_bucket": "codegym-zoom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768926935158:android:5674df64bd186d0ad7d757",
+        "android_client_info": {
+          "package_name": "com.codegym.codegymzoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768926935158-k7ss8dsvaeruqsm3i54to69uonl6cugh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codegym.codegymzoom",
+            "certificate_hash": "3063ad24a96ffcba232ac47cea55e2b254851104"
+          }
+        },
+        {
+          "client_id": "768926935158-ev9er3poe08fqkdma82dcegbh3f38hea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhtLB90T1jPE2mWMMZ2cK3mhjYYG9wqYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768926935158-ev9er3poe08fqkdma82dcegbh3f38hea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
